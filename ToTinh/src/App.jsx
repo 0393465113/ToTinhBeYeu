@@ -222,7 +222,7 @@ function App() {
               controls
               autoPlay
               loop // Loop the video
-              src="/video/BeYeu.MP4" // Path to your video file in the public/video folder
+              src="https://res.cloudinary.com/disdu197t/video/upload/v1748586877/eyjawrylc6qx3p5gt2de.mp4" // Path to your video file in the public/video folder
               onError={(e) => console.error('Video error:', e)} // Basic error handling
             >
               Trình duyệt của bạn không hỗ trợ thẻ video.
